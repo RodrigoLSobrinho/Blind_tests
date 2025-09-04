@@ -1,0 +1,11 @@
+services:
+  blindtest:
+    build: .
+    container_name: blindtest
+    ports:
+      - 8888:8888
+    volumes:
+      - ./:/workspace
+    environment:
+      - JUPYTER_TOKEN=blindtest
+    restart: unless-stopped

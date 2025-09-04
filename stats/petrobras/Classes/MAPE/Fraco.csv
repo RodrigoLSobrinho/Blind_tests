@@ -1,0 +1,11 @@
+,Unnamed: 0.1,Unnamed: 0,Model,Dataset,R²,R²_log,RMSE,MAE,MALE,RMSLE,MAPE,N_points,Modelo,Poço
+6,6,0,model_8_XGB,dataset_C,-1.451,-4.1656,1.8864,1.4689,0.4941,0.5799,50.2836,22,model_8,dataset_C
+10,10,0,model_11_XGB,dataset_C,-2.2482,-7.8031,2.1716,1.7702,0.5905,0.6962,65.8019,22,model_11,dataset_C
+11,11,1,model_11_FFNN,dataset_C,-3.3438,-4.1795,2.5113,1.8211,0.5792,0.7208,67.6367,22,model_11,dataset_C
+20,20,0,model_9_XGB,dataset_C,-2.0926,-3.5026,2.1189,1.5915,0.4748,0.587,60.2249,22,model_9,dataset_C
+28,28,0,model_2_XGB,dataset_C,-0.7612,-7.011,1.599,1.298,0.4855,0.5912,53.2612,22,model_2,dataset_C
+29,29,1,model_2_FFNN,dataset_C,-1.6118,-3.5084,1.9473,1.3923,0.4438,0.5267,54.3883,22,model_2,dataset_C
+40,40,0,model_10_FFNN,dataset_C,-1.6075,-4.7044,1.9457,1.6074,0.559,0.6077,58.5028,22,model_10,dataset_C
+41,41,1,model_10_XGB,dataset_C,-1.7036,-6.6394,1.9812,1.645,0.5933,0.6514,60.9459,22,model_10,dataset_C
+60,60,0,model_5_FFNN,dataset_C,-1.1096,-4.4894,1.7501,1.4723,0.5132,0.5549,55.4762,22,model_5,dataset_C
+61,61,1,model_5_XGB,dataset_C,-2.0083,-10.4556,2.0898,1.6539,0.6203,0.7426,63.189,22,model_5,dataset_C

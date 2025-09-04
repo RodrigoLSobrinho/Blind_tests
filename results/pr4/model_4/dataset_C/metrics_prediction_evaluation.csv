@@ -1,0 +1,3 @@
+Model,Well,R²,RMSE,MAE,RMSLE,MAPE,N_points
+model_4_FFNN,evaluation,-4.103,2.1525,0.9811,0.4778,191.4336,142
+model_4_XGB,evaluation,-0.6162,1.2114,0.7225,0.3922,146.4636,142

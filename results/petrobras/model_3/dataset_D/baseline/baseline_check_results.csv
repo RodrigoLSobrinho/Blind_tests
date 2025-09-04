@@ -1,0 +1,5 @@
+model,total_samples,measured_toc_mean,measured_toc_median,measured_toc_std,predicted_toc_mean,predicted_toc_median,predicted_toc_std,mean_error,rmse,n_predicted_toc_above_1,perc_predicted_toc_above_1
+predicted_COT_model_3_FFNN,17,0.617,0.58,0.279,1.125,1.193,0.537,0.508,0.706,10,58.824
+predicted_COT_model_3_XGB,17,0.617,0.58,0.279,1.088,1.02,0.254,0.472,0.609,11,64.706
+predicted_COT_model_3_FFNN,16,0.6,0.58,0.279,1.118,1.192,0.554,0.518,0.722,9,56.25
+predicted_COT_model_3_XGB,16,0.6,0.58,0.279,1.065,1.019,0.242,0.465,0.611,10,62.5

@@ -1,0 +1,3 @@
+,Model,Dataset,R²,R²_log,RMSE,MAE,MALE,RMSLE,MAPE,N_points,Modelo,Poço
+0,model_5_FFNN,dataset_F,0.3112,0.3867,1.3568,0.6574,0.2965,0.3903,798.1773,241,model_5,dataset_F
+1,model_5_XGB,dataset_F,0.9048,0.6325,0.5045,0.3007,0.1554,0.2132,392.9462,241,model_5,dataset_F

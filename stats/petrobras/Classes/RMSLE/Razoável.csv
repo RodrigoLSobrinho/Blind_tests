@@ -1,0 +1,9 @@
+,Unnamed: 0.1,Unnamed: 0,Model,Dataset,R²,R²_log,RMSE,MAE,MALE,RMSLE,MAPE,N_points,Modelo,Poço
+7,7,1,model_8_FFNN,dataset_C,-1.0474,-2.295,1.7241,1.3407,0.4302,0.4926,46.3225,22,model_8,dataset_C
+8,8,0,model_3_FFNN,dataset_C,-0.6452,-2.6795,1.5455,1.2697,0.4273,0.477,47.517,22,model_3,dataset_C
+9,9,1,model_3_XGB,dataset_C,-0.7342,-2.3178,1.5867,1.2552,0.416,0.4712,46.0638,22,model_3,dataset_C
+33,33,1,model_6_FFNN,dataset_C,-1.0088,-1.9256,1.7077,1.2224,0.3767,0.4746,39.4733,22,model_6,dataset_C
+42,42,0,model_4_FFNN,dataset_C,-0.9601,-1.9638,1.6869,1.2081,0.3687,0.4713,41.5542,22,model_4,dataset_C
+45,45,1,model_7_FFNN,dataset_C,-0.5954,-1.29,1.5219,1.1261,0.3465,0.4155,38.2161,22,model_7,dataset_C
+47,47,1,model_3_XGB,dataset_D,-0.1104,0.2186,1.6065,1.0864,0.3744,0.4723,90.4667,47,model_3,dataset_D
+59,59,1,model_3_XGB,dataset_B,0.1887,0.3228,1.7429,1.1145,0.4084,0.4941,168.5629,258,model_3,dataset_B

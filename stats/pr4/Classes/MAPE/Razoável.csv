@@ -1,0 +1,2 @@
+,Unnamed: 0.1,Unnamed: 0,Model,Dataset,R²,R²_log,RMSE,MAE,MALE,RMSLE,MAPE,N_points,Modelo,Poço
+48,48,0,model_7_XGB,dataset_A,0.3612,0.3678,0.6811,0.4533,0.1981,0.271,48.646,267,model_7,dataset_A

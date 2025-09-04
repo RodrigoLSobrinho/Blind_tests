@@ -1,0 +1,7 @@
+,model,total_samples,measured_toc_mean,measured_toc_median,measured_toc_std,predicted_toc_mean,predicted_toc_median,predicted_toc_std,mean_error,rmse,n_predicted_toc_above_1,perc_predicted_toc_above_1,Modelo,Poço
+0,predicted_COT_model_5_FFNN,137,0.196,0.155,0.126,0.423,0.369,0.156,0.227,0.282,0,0.0,model_5,dataset_D
+1,predicted_COT_model_5_XGB,137,0.196,0.155,0.126,0.42,0.378,0.228,0.225,0.326,2,1.46,model_5,dataset_D
+2,predicted_COT_model_5_FFNN,137,0.196,0.155,0.126,0.423,0.369,0.156,0.227,0.282,0,0.0,model_5,dataset_D
+3,predicted_COT_model_5_XGB,137,0.196,0.155,0.126,0.42,0.378,0.228,0.225,0.326,2,1.46,model_5,dataset_D
+4,predicted_COT_model_5_FFNN,137,0.196,0.155,0.126,0.423,0.369,0.156,0.227,0.282,0,0.0,model_5,dataset_D
+5,predicted_COT_model_5_XGB,137,0.196,0.155,0.126,0.42,0.378,0.228,0.225,0.326,2,1.46,model_5,dataset_D
